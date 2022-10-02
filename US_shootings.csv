@@ -1,0 +1,554 @@
+"Date","City","State","AreaType","School","Fatalities","Wounded","lat","lng"
+"3/27/90","Brooklyn","New York","urban","C",0,1,40.6501,-73.9496
+"5/20/90","Centerville","Tennessee","suburban","HS",1,2,35.8042,-87.4577
+"8/26/90","Las Vegas","Nevada","urban","HS",1,2,36.2333,-115.2654
+"9/11/90","San Antonio","Texas","urban","HS",0,3,29.4658,-98.5253
+"1/8/91","Richardson","Texas","urban","HS",0,0,32.9717,-96.7093
+"2/6/91","Donna","Texas","suburban","HS",1,0,26.1467,-98.0559
+"4/23/91","Compton","California","suburban","MS",1,0,33.893,-118.2275
+"9/18/91","Crosby","Texas","suburban","HS",1,0,29.9146,-95.0591
+"10/8/91","Bronx","New York","urban","HS",1,2,40.8501,-73.8662
+"11/1/91","Iowa City","Iowa","suburban","C",6,1,41.6559,-91.5303
+"11/14/91","Houston","Texas","urban","HS",0,0,29.7863,-95.3889
+"11/25/91","Brooklyn","New York","urban","HS",1,0,40.6501,-73.9496
+"12/12/91","Kent","Ohio","urban","C",1,0,41.149,-81.361
+"1/29/92","Kent","Ohio","urban","C",0,1,41.149,-81.361
+"2/26/92","Brooklyn","New York","urban","HS",2,0,40.6501,-73.9496
+"5/1/92","Olivehurst","California","suburban","HS",3,10,39.0817,-121.5549
+"5/14/92","Napa","California","urban","MS",0,0,38.2976,-122.3011
+"9/11/92","Lincoln","Texas","urban","HS",0,0,30.286767, -96.963402
+"10/12/92","Lincoln","Nebraska","urban","C",0,0,40.809,-96.6788
+"10/12/92","Tucson","Arizona","urban","HS",1,2,32.1545,-110.8782
+"10/19/92","Bronx","New York","suburban","HS",0,3,40.8501,-73.8662
+"11/4/92","Detroit","Michigan","urban","HS",0,11,42.3834,-83.1024
+"11/10/92","Chicago","Illinois","urban","ES",0,0,41.8373,-87.6862
+"11/13/92","Houston","Texas","urban","HS",1,2,29.7863,-95.3889
+"11/16/92","Birmingham","Alabama","urban","HS",1,2,33.5277,-86.7987
+"11/20/92","Chicago","Illinois","urban","HS",1,2,41.8373,-87.6862
+"11/23/92","Buffalo","New York","urban","HS",0,0,42.9016,-78.8487
+"12/3/92","Chicago","Illinois","urban","ES",1,2,41.8373,-87.6862
+"12/14/92","Great Barrington","Massachusetts","suburban","C",2,4,42.193709, -73.368485
+"1/6/93","Brentwood","New York","suburban","HS",0,1,40.7839,-73.2522
+"1/8/93","Kinzers","Pennsylvania","suburban","HS",1,2,40.002454, -76.064472
+"1/12/93","Miami","Florida","urban","HS",1,2,25.7839,-80.2102
+"1/18/93","Grayson","Kentucky","suburban","HS",2,0,38.3317,-82.9371
+"1/21/93","Los Angeles","California","urban","HS",1,2,34.1139,-118.4068
+"2/1/93","Redmond","Washington","urban","MS",1,2,47.6762,-122.1169
+"2/1/93","Amityville","New York","suburban","HS",1,2,40.6696,-73.4156
+"2/4/93","Clayton County","Georgia","urban","HS",1,2,33.612772, -84.354536
+"2/8/93","Middle River","Minnesota","suburban","MS",1,2,48.4349,-96.1617
+"2/8/93","Washington","District of Columbia","urban","HS",1,2,38.9047,-77.0163
+"2/18/93","Dallas","Texas","urban","HS",1,2,32.7936,-96.7662
+"2/22/93","Los Angeles","California","urban","HS",1,0,34.1139,-118.4068
+"2/26/93","Gloucester","Massachusetts","suburban","HS",0,0,42.626,-70.6897
+"3/18/93","Harlem","Georgia","suburban","HS",1,2,33.4262,-82.3129
+"3/25/93","St. Louis","Missouri","urban","HS",1,2,38.6358,-90.2451
+"4/3/93","Sacramento","California","urban","HS",1,2,38.5667,-121.4683
+"4/14/93","Irving","Texas","urban","HS",1,2,32.8584,-96.9702
+"4/15/93","Acushnet","Massachusetts","suburban","MS",1,0,41.681831, -70.910570
+"4/16/93","Sacramento","California","urban","HS",1,2,38.5667,-121.4683
+"4/26/93","Raleigh","North Carolina","urban","HS",1,2,35.8325,-78.6435
+"5/14/93","Irving","Texas","urban","HS",1,0,32.8584,-96.9702
+"5/24/93","Red Hill","Pennsylvania","suburban","HS",1,2,40.3771,-75.4838
+"5/24/93","Pennsburg","Pennsylvania","suburban","HS",1,0,40.3936,-75.4965
+"5/27/93","New Orleans","Louisiana","urban","HS",1,2,30.0687,-89.9288
+"7/8/93","Ogden","Utah","urban","C",1,2,41.2278,-111.9682
+"8/31/93","Atlanta","Georgia","urban","HS",1,2,33.7627,-84.4224
+"9/2/93","Dallas","Texas","urban","HS",1,2,32.7936,-96.7662
+"9/17/93","Sheridan","Wyoming","suburban","MS",1,4,44.7962,-106.9643
+"10/12/93","New Castle","Delaware","suburban","HS",1,2,39.6685,-75.5692
+"10/14/93","Detroit","Michigan","urban","HS",1,2,42.3834,-83.1024
+"11/1/93","Chicago","Illinois","urban","HS",1,2,41.8373,-87.6862
+"11/4/93","Jacksonville","Florida","urban","HS",1,2,30.3322,-81.6749
+"11/4/93","New Britain","Connecticut","suburban","HS",1,0,41.6758,-72.7862
+"11/5/93","Bay Springs","Mississippi","suburban","HS",1,2,31.9772,-89.2792
+"11/29/93","Kansas City","Missouri","urban","HS",1,2,39.1239,-94.5541
+"12/1/93","Wauwatosa","Wisconsin","suburban","HS",1,0,43.0615,-88.0347
+"12/8/93","Savannah","Georgia","urban","HS",1,2,32.0281,-81.1784
+"12/17/93","Chelsea","Michigan","suburban","HS",1,2,42.3132,-84.0188
+"1/20/94","Kennard","Texas","suburban","HS",0,0,31.3575,-95.1854
+"1/20/94","Hacienda Heights","California","urban","HS",1,2,33.997,-117.9728
+"1/24/94","Columbia","South Carolina","urban","HS",1,0,34.0376,-80.9037
+"1/26/94","Columbia","South Carolina","urban","HS",1,2,34.0376,-80.9037
+"1/31/94","Seattle","Washington","urban","MS",1,0,47.6211,-122.3244
+"2/8/94","Detroit","Michigan","urban","HS",1,2,42.3834,-83.1024
+"2/14/94","Belmont","California","suburban","HS",1,2,37.5154,-122.2955
+"2/18/94","Spartanburg","South Carolina","suburban","HS",0,1,34.9437,-81.9257
+"3/1/94","Boonville","Missouri","suburban","HS",2,0,38.9588,-92.7471
+"3/15/94","Charleston","South Carolina","urban","HS",1,2,32.8153,-79.9628
+"3/22/94","Riviera Beach","Florida","urban","MS",0,0,26.781217, -80.062120
+"3/23/94","Seattle","Washington","urban","HS",1,2,47.6211,-122.3244
+"3/25/94","Woodstock","Georgia","suburban","HS",0,0,34.1026,-84.509
+"4/12/94","Butte","Montana","suburban","ES",1,0,45.902,-112.6571
+"4/13/94","Los Angeles","California","urban","ES",0,0,34.1139,-118.4068
+"4/21/94","Nashville","Tennessee","urban","MS",1,0,36.1715,-86.7843
+"5/2/94","North Miami","Florida","suburban","HS",1,2,25.9007,-80.1686
+"5/25/94","Union","Kentucky","suburban","HS",4,8,38.9472,-84.6731
+"7/25/94","Ottumwa","Iowa","suburban","HS",1,2,41.0196,-92.4186
+"9/7/94","Hollywood","California","urban","HS",1,2,34.094681, -118.321242
+"10/12/94","Greensboro","North Carolina","urban","HS",1,1,36.0956,-79.8269
+"10/17/94","Chicago","Illinois","urban","HS",0,1,41.8373,-87.6862
+"11/5/94","San Leandro","California","urban","ES",1,2,37.7071,-122.1601
+"11/7/94","Wickliffe","Ohio","suburban","MS",1,4,41.6072,-81.469
+"11/15/94","Tacoma","Washington","urban","HS",1,2,47.2431,-122.4531
+"12/14/94","Albany","New York","urban","C",0,1,42.6664,-73.7987
+"1/5/95","Washington","District of Columbia","urban","HS",1,2,38.9047,-77.0163
+"1/10/95","Palm Beach Gardens","Florida","suburban","HS",0,0,26.8466,-80.1679
+"1/12/95","Seattle","Washington","urban","HS",0,2,47.6211,-122.3244
+"1/23/95","Redlands","California","urban","MS",1,2,34.0511,-117.1712
+"1/26/95","Chapel Hill","North Carolina","urban","C",2,4,35.927,-79.0391
+"2/2/95","Long Beach","California","urban","HS",1,2,33.7981,-118.1675
+"8/29/95","Laredo","Texas","urban","MS",1,2,27.5629,-99.4875
+"9/12/95","Memphis","Tennessee","urban","HS",1,2,35.1046,-89.9773
+"9/14/95","Olathe","Kansas","urban","HS",2,4,38.8832,-94.8198
+"9/29/95","Tavares","Florida","suburban","MS",1,0,28.7921,-81.7353
+"10/12/95","Blackville","South Carolina","suburban","HS",2,1,33.3552,-81.2835
+"11/15/95","Lynnville","Tennessee","suburban","HS",2,1,35.3781,-87.0054
+"11/28/95","Queens","New York","urban","HS",1,2,40.744678, -73.758072
+"1/19/96","Washington","District of Columbia","urban","HS",1,0,38.9047,-77.0163
+"1/26/96","Memphis","Tennessee","urban","HS",1,2,35.1046,-89.9773
+"2/2/96","Moses Lake","Washington","suburban","MS",3,1,47.128,-119.2761
+"2/8/96","Palo Alto","California","urban","HS",1,2,37.3913,-122.1468
+"2/29/96","St. Louis","Missouri","urban","HS",1,1,38.6358,-90.2451
+"3/11/96","New London","North Carolina","suburban","HS",1,2,35.4348,-80.2198
+"4/11/96","Talledega","Alabama","suburban","HS",1,2,33.434940, -86.106200
+"6/4/96","Hemet","California","urban","HS",1,2,33.7341,-116.9969
+"8/15/96","San Diego","California","urban","C",3,0,32.8312,-117.1225
+"8/26/96","San Antonio","Texas","urban","C",1,2,29.4658,-98.5253
+"9/17/96","State College","Pennsylvania","suburban","C",1,2,40.7909,-77.8568
+"9/25/96","Decatur","Georgia","suburban","HS",1,2,33.7711,-84.2968
+"10/2/96","Philadelphia","Pennsylvania","urban","ES",2,4,40.0077,-75.1339
+"10/4/96","Playa del Rey","California","suburban","HS",1,2,33.945599, -118.440582
+"10/9/96","Sherwood","Arkansas","suburban","HS",1,0,34.8508,-92.2028
+"10/13/96","St. Louis","Missouri","urban","HS",1,2,38.6358,-90.2451
+"10/16/96","West Lafayette","Indiana","suburban","C",1,2,40.4432,-86.9239
+"11/27/96","Sacramento","California","urban","HS",1,2,38.5667,-121.4683
+"1/11/97","Brooklyn","New York","urban","HS",1,2,40.6501,-73.9496
+"1/27/97","West Palm Beach","Florida","urban","MS",1,0,26.7468,-80.1316
+"1/31/97","Tulsa","Oklahoma","urban","HS",1,2,36.1284,-95.9042
+"2/19/97","Bethel","Alaska","suburban","HS",2,2,60.7928,-161.7917
+"2/20/97","Jacksonville","Florida","urban","HS",1,2,30.3322,-81.6749
+"3/18/97","Detroit","Michigan","urban","HS",1,2,42.3834,-83.1024
+"10/1/97","Pearl","Mississippi","suburban","HS",3,7,32.273,-90.0918
+"10/14/97","Garland","Texas","urban","HS",1,2,32.91,-96.6305
+"10/15/97","Palmetto","Florida","suburban","MS",0,1,27.5251,-82.575
+"10/22/97","Norwalk","California","urban","HS",2,4,33.9069,-118.0829
+"11/13/97","Sacramento","California","urban","ES",1,2,38.5667,-121.4683
+"12/1/97","West Paducah","Kentucky","suburban","HS",3,5,37.107520, -88.777580
+"12/15/97","Stamps","Arkansas","suburban","HS",0,2,33.3567,-93.4956
+"2/25/98","Reed City","Michigan","suburban","HS",1,2,43.8725,-85.5069
+"3/1/98","Philadelphia","Pennsylvania","urban","C",1,3,40.0077,-75.1339
+"3/24/98","Jonesboro","Arkansas","urban","MS",5,10,35.8212,-90.6791
+"3/24/98","Craighead County","Arkansas","suburban","MS",5,10,35.839307, -90.706333
+"3/25/98","Coldwater","Michigan","suburban","HS",1,2,41.9465,-84.9989
+"3/30/98","Chapel Hill","North Carolina","urban","MS",0,0,35.927,-79.0391
+"4/24/98","Edinboro","Pennsylvania","suburban","MS",1,3,41.8762,-80.1246
+"4/28/98","Pomona","California","urban","ES",2,4,34.0585,-117.7626
+"5/1/98","Buffalo","New York","urban","ES",1,2,42.9016,-78.8487
+"5/19/98","Fayetteville","Tennessee","urban","HS",1,0,35.149,-86.5634
+"5/21/98","Rialto","California","urban","HS",1,2,34.1174,-117.3894
+"5/21/98","Springfield","Oregon","urban","HS",4,23,44.0538,-122.981
+"5/27/98","Pasadena","California","urban","MS",0,0,34.1597,-118.139
+"5/29/98","Fort Lauderdale","Florida","urban","HS",2,4,26.1412,-80.1464
+"6/15/98","Richmond","Virginia","urban","HS",0,2,37.5295,-77.4756
+"9/4/98","San Bernardino","California","urban","C",2,4,34.1417,-117.2946
+"9/12/98","Glendale","California","urban","HS",0,0,34.1818,-118.2468
+"12/10/98","Detroit","Michigan","urban","C",1,0,42.3834,-83.1024
+"1/8/99","Carrollton","Georgia","urban","HS",1,1,33.5817,-85.0837
+"1/21/99","North Richland Hills","Texas","urban","HS",1,2,32.8605,-97.218
+"2/11/99","Elgin","Illinois","urban","HS",0,0,42.0385,-88.3229
+"4/16/99","Notus","Idaho","suburban","HS",0,0,43.7266,-116.7998
+"4/20/99","Littleton","Colorado","suburban","HS",15,21,39.5915,-105.0188
+"4/23/99","Atlanta","Georgia","urban","MS",1,2,33.7627,-84.4224
+"5/20/99","Conyers","Georgia","suburban","HS",0,6,33.6645,-83.9966
+"8/25/99","Monticello","Georgia","suburban","HS",1,2,33.2955,-83.686
+"9/7/99","Plano","Texas","urban","HS",1,2,33.0502,-96.7487
+"9/9/99","San Jose","California","urban","HS",1,2,37.3019,-121.8486
+"11/19/99","Deming","New Mexico","suburban","MS",1,0,32.2631,-107.7525
+"12/6/99","Fort Gibson","Oklahoma","suburban","MS",0,6,35.7766,-95.2599
+"1/19/00","New Port Richey","Florida","suburban","HS",0,0,28.2468,-82.717
+"2/29/00","Flint","Michigan","urban","ES",1,0,43.0235,-83.6922
+"5/10/00","Sierra Vista","Arizona","urban","ES",2,4,31.563,-110.3153
+"5/26/00","Lake Worth","Florida","suburban","MS",1,0,26.6196,-80.0591
+"6/28/00","Seattle","Washington","urban","C",2,4,47.6211,-122.3244
+"7/26/00","Canton","Ohio","urban","HS",1,2,40.8075,-81.3677
+"8/28/00","Fayetteville","Arkansas","urban","C",2,0,36.0713,-94.166
+"9/5/00","Bidwell","Ohio","suburban","ES",2,4,38.917601, -82.282432
+"9/26/00","New Orleans","Louisiana","urban","HS",0,2,30.0687,-89.9288
+"10/23/00","Los Angeles","California","urban","C",1,2,34.1139,-118.4068
+"10/26/00","Brooklyn","New York","urban","HS",1,2,40.6501,-73.9496
+"10/27/00","Memphis","Tennessee","urban","HS",1,2,35.1046,-89.9773
+"12/1/00","San Diego","California","urban","HS",0,1,32.8312,-117.1225
+"1/10/01","Oxnard","California","urban","HS",1,2,34.1963,-119.1815
+"1/17/01","Baltimore","Maryland","urban","HS",1,2,39.3051,-76.6144
+"1/29/01","Arlington","Texas","urban","MS",1,2,32.6998,-97.125
+"3/2/01","San Diego","California","urban","HS",0,0,32.8312,-117.1225
+"3/5/01","Santee","California","suburban","HS",2,13,32.8554,-116.9851
+"3/7/01","Williamsport","Pennsylvania","suburban","HS",0,1,41.2398,-77.0371
+"3/22/01","El Cajon","California","urban","HS",0,5,32.8017,-116.9605
+"3/30/01","Gary","Indiana","urban","HS",1,0,41.5906,-87.3472
+"4/3/01","Klein","Texas","urban","MS",0,0,30.039367, -95.524892
+"4/25/01","Cleveland","Ohio","urban","HS",1,2,41.4767,-81.6804
+"5/15/01","Ennis","Texas","suburban","HS",0,0,32.3255,-96.635
+"5/16/01","Parkland","Washington","suburban","C",2,0,47.1417,-122.4376
+"5/17/01","Pierce County","Washington","urban","C",1,2,47.168029, -122.572284
+"10/12/01","Taylorsville","Utah","urban","HS",0,0,40.657,-111.9493
+"11/12/01","Caro","Michigan","suburban","HS",0,0,43.489,-83.4025
+"1/15/02","Bronx","New York","urban","HS",0,2,40.8501,-73.8662
+"1/16/02","Grundy","Virginia","suburban","C",3,3,37.2754,-82.0988
+"2/20/02","Milwaukee","Wisconsin","urban","HS",1,0,43.0642,-87.9673
+"6/11/02","Conception","Missouri","suburban","HS",3,2,40.2411,-94.6805
+"7/26/02","Charlotte","North Carolina","urban","MS",1,2,35.208,-80.8304
+"10/4/02","San Antonio","Texas","urban","MS",1,2,29.4658,-98.5253
+"10/7/02","Bowie","Maryland","suburban","MS",0,1,38.9569,-76.7409
+"10/28/02","Tucson","Arizona","urban","C",4,0,32.1545,-110.8782
+"10/29/02","Jersey City","New Jersey","urban","HS",0,1,40.7161,-74.0682
+"11/7/02","Liberty","Missouri","suburban","ES",1,2,39.2394,-94.4191
+"12/16/02","Chicago","Illinois","urban","HS",1,2,41.8373,-87.6862
+"3/23/03","Meridian","Mississippi","suburban","HS",0,0,32.3846,-88.6896
+"4/10/03","Walnut","California","suburban","HS",0,0,34.0334,-117.8593
+"4/14/03","New Orleans","Louisiana","urban","HS",1,3,30.0687,-89.9288
+"4/17/03","Addison","Texas","suburban","ES",1,2,32.959,-96.8355
+"4/24/03","Red Lion","Pennsylvania","suburban","HS",2,0,39.8986,-76.6078
+"5/9/03","Cleveland","Ohio","urban","C",1,2,41.4767,-81.6804
+"5/13/03","Johnstown","Pennsylvania","urban","HS",1,2,40.3258,-78.9193
+"6/4/03","Wellsboro","Pennsylvania","suburban","MS",0,0,41.7459,-77.3031
+"7/15/03","Dallas","Texas","urban","HS",0,0,32.7936,-96.7662
+"9/24/03","Cold Spring","Minnesota","suburban","HS",2,0,45.4572,-94.4296
+"10/30/03","Washington","District Of Columbia","urban","HS",1,2,38.9047,-77.0163
+"11/7/03","Sugar Land","Texas","urban","HS",1,2,29.5935,-95.6357
+"1/21/04","Henderson","Nevada","urban","ES",1,2,36.0133,-115.038
+"2/2/04","Washington","District of Columbia","urban","HS",1,0,38.9047,-77.0163
+"2/9/04","East Greenbush","New York","suburban","HS",0,1,42.589582, -73.710832
+"2/11/04","Philadelphia","Pennsylvania","urban","ES",1,2,40.0077,-75.1339
+"3/17/04","Joyce","Washington","suburban","MS",0,0,48.135700, -123.740113
+"5/7/04","Randallstown","Maryland","suburban","HS",0,4,39.3723,-76.8024
+"5/24/04","Salt Lake City","Utah","urban","HS",1,2,40.7777,-111.9306
+"6/1/04","St Croix","Virgin Islands","urban","HS",1,2,NA,NA
+"8/30/04","Maywood","Illinois","suburban","HS",1,2,41.8798,-87.8442
+"10/4/04","Memphis","Tennessee","urban","HS",0,0,35.1046,-89.9773
+"11/22/04","Philadelphia","Pennsylvania","urban","HS",1,2,40.0077,-75.1339
+"12/10/04","Nine Mile Falls","Washington","suburban","HS",1,2,47.771899, -117.534865
+"1/6/05","Philadelphia","Pennsylvania","urban","HS",1,2,40.0077,-75.1339
+"2/8/05","Chicago","Illinois","urban","HS",0,1,41.8373,-87.6862
+"3/2/05","Dover","Tennessee","suburban","HS",1,0,36.4818,-87.8438
+"3/21/05","Red Lake","Minnesota","suburban","HS",10,7,47.8707,-95.0052
+"5/17/05","Lower Allen Township","Pennsylvania","suburban","ES",1,2,40.228165, -76.903890
+"9/13/05","Chicago","Illinois","urban","HS",0,1,41.8373,-87.6862
+"11/8/05","Jacksboro","Tennessee","suburban","HS",1,2,36.3352,-84.1928
+"1/13/06","Birmingham","Alabama","urban","HS",1,2,33.5277,-86.7987
+"1/13/06","Longwood","Florida","suburban","MS",0,1,28.7014,-81.3487
+"2/23/06","Roseburg","Oregon","suburban","HS",0,1,43.2232,-123.3518
+"3/14/06","Reno","Nevada","urban","MS",0,2,39.5497,-119.8483
+"6/5/06","Venice","California","suburban","HS",1,2,33.993333, -118.463259
+"8/24/06","Essex Junction","Vermont","suburban","ES",2,3,44.4902,-73.114
+"8/30/06","Hillsborough","North Carolina","suburban","HS",0,2,36.0681,-79.0994
+"9/2/06","Shepherdstown","West Virginia","suburban","C",3,0,39.4318,-77.8048
+"9/17/06","Pittsburgh","Pennsylvania","urban","HS",0,5,40.4396,-79.9762
+"9/27/06","Bailey","Colorado","suburban","HS",2,0,39.405659, -105.477820
+"9/29/06","Cazenovia","Wisconsin","suburban","HS",1,0,43.5237,-90.1991
+"10/2/06","Nickel Mines","Pennsylvania","suburban","HS",6,3,39.958457, -76.081233
+"10/9/06","Joplin","Missouri","suburban","MS",0,0,37.0758,-94.5018
+"10/17/06","Katy","Texas","suburban","HS",1,2,29.7904,-95.8353
+"10/29/06","Fresno","California","urban","ES",1,2,36.7831,-119.7941
+"11/28/06","Houston","Texas","urban","HS",1,2,29.7863,-95.3889
+"12/12/06","Erdenheim","Pennsylvania","suburban","MS",1,2,40.088560, -75.211737
+"1/3/07","Tacoma","Washington","urban","HS",1,0,47.2431,-122.4531
+"2/8/07","Prineville","Oregon","suburban","HS",1,2,44.2985,-120.8607
+"3/7/07","Midland","Michigan","urban","HS",0,0,43.6241,-84.2319
+"3/7/07","Greenville","Texas","suburban","HS",0,0,33.1116,-96.1098
+"3/7/07","Compton","California","suburban","HS",0,1,33.893,-118.2275
+"3/24/07","Greensboro","North Carolina","urban","C",0,0,36.0956,-79.8269
+"4/2/07","Seattle","Washington","urban","C",1,2,47.6211,-122.3244
+"4/10/07","Gresham","Oregon","urban","HS",0,0,45.5023,-122.4413
+"4/16/07","Blacksburg","Virginia","suburban","C",33,23,37.23,-80.4279
+"9/21/07","Dover","Delaware","urban","C",1,2,39.161,-75.5203
+"9/28/07","Oroville","California","suburban","HS",0,0,39.4999,-121.5634
+"9/30/07","Memphis","Tennessee","urban","C",1,2,35.1046,-89.9773
+"10/10/07","Cleveland","Ohio","urban","HS",1,4,41.4767,-81.6804
+"11/6/07","Miami Gardens","Florida","urban","HS",0,1,25.9433,-80.2426
+"1/15/08","Putnam City","Oklahoma","suburban","HS",0,0,35.585402, -97.639955
+"1/16/08","Cleveland","Ohio","urban","HS",0,0,41.4767,-81.6804
+"1/16/08","Charlotte","North Carolina","urban","HS",0,0,35.208,-80.8304
+"2/4/08","Memphis","Tennessee","urban","HS",0,1,35.1046,-89.9773
+"2/7/08","Portsmouth","Ohio","suburban","ES",0,0,38.7539,-82.9446
+"2/8/08","Baton Rouge","Louisiana","urban","C",3,0,30.4418,-91.131
+"2/11/08","Memphis","Tennessee","urban","HS",0,1,35.1046,-89.9773
+"2/12/08","Oxnard","California","urban","HS",1,0,34.1963,-119.1815
+"2/14/08","DeKalb","Illinois","suburban","C",6,21,41.9313,-88.7482
+"2/23/08","Jonesboro","Arkansas","urban","C",0,0,35.8212,-90.6791
+"2/27/08","Little Rock","Arkansas","urban","C",0,0,34.7256,-92.3576
+"2/28/08","Miami Gardens","Florida","urban","HS",0,0,25.9433,-80.2426
+"3/6/08","Mobile","Alabama","urban","HS",1,2,30.6783,-88.1162
+"3/7/08","Chicago","Illinois","urban","HS",1,2,41.8373,-87.6862
+"4/5/08","Chicago","Illinois","urban","HS",1,2,41.8373,-87.6862
+"4/16/08","Fresno","California","urban","HS",1,2,36.7831,-119.7941
+"4/24/08","Omaha","Nebraska","urban","MS",0,0,41.2627,-96.0522
+"4/29/08","Washington","District of Columbia","urban","C",0,0,38.9047,-77.0163
+"7/24/08","Phoenix","Arizona","urban","C",0,0,33.5722,-112.0891
+"8/14/08","Federal Way","Washington","suburban","MS",1,0,47.3091,-122.3358
+"8/21/08","Knoxville","Tennessee","urban","HS",1,0,35.9692,-83.9496
+"8/29/08","Portland","Oregon","urban","HS",0,0,45.5372,-122.65
+"9/2/08","Willoughby","Ohio","suburban","HS",0,0,41.646,-81.4084
+"10/13/08","San Antonio","Texas","urban","C",1,2,29.4658,-98.5253
+"10/16/08","Detroit","Michigan","urban","HS",1,3,42.3834,-83.1024
+"10/20/08","Acton","California","suburban","HS",1,2,34.4956,-118.1857
+"10/21/08","Indianapolis","Indiana","urban","HS",1,2,39.7771,-86.1458
+"10/26/08","Conway","Arkansas","suburban","C",2,1,35.0754,-92.4694
+"10/31/08","Stockton Springs","Maine","suburban","ES",0,0,44.487926, -68.852895
+"11/13/08","Fort Lauderdale","Florida","urban","HS",1,0,26.1412,-80.1464
+"11/15/08","St. George","Utah","urban","HS",1,2,37.077,-113.577
+"11/21/08","Savannah","Georgia","urban","C",0,0,32.0281,-81.1784
+"1/8/09","New Castle","Delaware","suburban","HS",0,0,39.6685,-75.5692
+"1/9/09","Chicago","Illinois","urban","HS",0,5,41.8373,-87.6862
+"1/23/09","Cahokia","Illinois","suburban","HS",1,2,38.5649,-90.1792
+"2/7/09","Houston","Texas","urban","C",1,2,29.7863,-95.3889
+"2/11/09","El Monte","California","urban","ES",0,0,34.0739,-118.0291
+"2/17/09","Detroit","Michigan","urban","HS",0,0,42.3834,-83.1024
+"3/6/09","Fayetteville","North Carolina","urban","HS",0,0,35.0846,-78.9776
+"3/10/09","Jacksonville","Florida","urban","HS",2,4,30.3322,-81.6749
+"4/10/09","Dearborn","Michigan","urban","C",1,2,42.3127,-83.2129
+"4/24/09","Houston","Texas","urban","C",1,2,29.7863,-95.3889
+"4/26/09","Hampton","Virginia","urban","C",0,3,37.0551,-76.363
+"5/1/09","Sheboygan","Wisconsin","urban","HS",0,0,43.7403,-87.7316
+"5/5/09","Canandaigua","New York","suburban","HS",0,0,42.889588, -77.283486
+"5/18/09","Larose","Louisiana","urban","MS",0,0,29.5669,-90.3751
+"5/18/09","Cambridge","Massachusetts","urban","C",1,0,42.3759,-71.1185
+"5/18/09","Larose","Louisiana","suburban","MS",1,0,29.5669,-90.3751
+"6/9/09","Lexington","Kentucky","urban","MS",1,2,38.0423,-84.4587
+"6/16/09","San Francisco","California","urban","HS",0,3,37.7562,-122.443
+"6/24/09","Parkersburg","Iowa","suburban","HS",1,2,42.5739,-92.7785
+"9/2/09","San Bruno","California","suburban","C",0,0,37.6254,-122.4313
+"9/3/09","Atlanta","Georgia","urban","C",1,2,33.7627,-84.4224
+"9/3/09","San Bruno","California","suburban","C",0,1,37.6254,-122.4313
+"9/8/09","Stamford","Connecticut","urban","HS",0,0,41.1035,-73.5583
+"9/14/09","Grand Rapids","Michigan","urban","HS",0,0,42.962,-85.6562
+"9/16/09","Henrico","Virginia","urban","HS",0,0,37.629196, -77.547172
+"10/16/09","Carolina Forest","South Carolina","suburban","HS",1,2,33.779038, -78.970885
+"10/16/09","Conway","South Carolina","suburban","HS",1,0,33.8399,-79.0424
+"10/30/09","Long Beach","California","urban","HS",1,2,33.7981,-118.1675
+"11/16/09","Dallas","Texas","urban","ES",0,0,32.7936,-96.7662
+"12/2/09","Brockton","Massachusetts","urban","HS",0,0,42.0821,-71.0242
+"12/8/09","Woodbridge","Virginia","urban","C",0,0,38.6569,-77.2403
+"12/11/09","Shreveport","Louisiana","urban","HS",0,0,32.4656,-93.7956
+"1/7/10","Phoenix","Arizona","urban","HS",0,0,33.5722,-112.0891
+"1/20/10","Livingston","Alabama","suburban","HS",1,2,32.5982,-88.1891
+"2/5/10","Madison","Alabama","urban","MS",1,0,34.7114,-86.7626
+"2/10/10","Knoxville","Tennessee","urban","ES",0,0,35.9692,-83.9496
+"2/12/10","Huntsville","Alabama","urban","C",3,3,34.6988,-86.6412
+"2/19/10","DeKalb","Illinois","suburban","C",0,1,41.9313,-88.7482
+"2/23/10","Littleton","Colorado","suburban","MS",0,2,39.5915,-105.0188
+"2/26/10","Tacoma","Washington","urban","ES",2,4,47.2431,-122.4531
+"3/9/10","Columbus","Ohio","urban","C",1,1,39.9862,-82.985
+"4/29/10","Portsmouth","Virginia","urban","HS",0,0,36.8468,-76.354
+"5/18/10","South Gate","California","urban","HS",0,0,33.9448,-118.1926
+"8/31/10","Blountville","Tennessee","suburban","HS",1,2,36.533,-82.329
+"9/7/10","Detroit","Michigan","urban","HS",0,0,42.3834,-83.1024
+"9/8/10","Detroit","Michigan","urban","HS",0,2,42.3834,-83.1024
+"9/16/10","Moss Bluff","Louisiana","suburban","MS",1,2,30.3039,-93.2051
+"9/21/10","Columbia","South Carolina","urban","HS",0,0,34.0376,-80.9037
+"9/28/10","Austin","Texas","urban","C",1,0,30.3004,-97.7522
+"10/1/10","Salinas","California","urban","HS",1,0,36.6884,-121.6317
+"10/3/10","Elizabeth City","North Carolina","suburban","C",1,2,36.2943,-76.2361
+"10/8/10","Carlsbad","California","urban","ES",0,2,33.1247,-117.2837
+"10/25/10","Selma","Alabama","suburban","ES",0,0,32.4166,-87.0336
+"11/29/10","Marinette","Wisconsin","suburban","HS",1,0,45.087,-87.6328
+"12/6/10","Aurora","Colorado","urban","HS",0,1,39.7087,-104.7273
+"1/5/11","Omaha","Nebraska","urban","HS",2,2,41.2627,-96.0522
+"1/18/11","Los Angeles","California","urban","HS",0,0,34.1139,-118.4068
+"2/2/11","Placerville","California","suburban","ES",1,2,38.7308,-120.7978
+"2/14/11","Murfreesboro","Tennessee","urban","C",0,0,35.8492,-86.4119
+"2/23/11","Los Angeles","California","urban","C",1,2,34.1139,-118.4068
+"3/25/11","Martinsville","Indiana","suburban","MS",0,1,39.4228,-86.4208
+"3/31/11","Houston","Texas","urban","HS",1,5,29.7863,-95.3889
+"4/6/11","Opelika","Alabama","suburban","C",1,2,32.6612,-85.3769
+"4/13/11","Apopka","Florida","suburban","HS",0,0,28.7014,-81.5304
+"4/19/11","Houston","Texas","urban","ES",0,0,29.7863,-95.3889
+"5/23/11","Pearl City","Hawaii","suburban","MS",0,1,21.4031,-157.9566
+"8/26/11","Harper Woods","Michigan","suburban","HS",0,0,42.439,-82.9292
+"10/24/11","Fayetteville","North Carolina","urban","HS",0,1,35.0846,-78.9776
+"11/15/11","Berkeley","California","urban","C",0,0,37.8723,-122.276
+"12/8/11","Blacksburg","Virginia","suburban","C",2,0,37.23,-80.4279
+"12/9/11","Edinburg","Texas","urban","MS",0,2,26.3197,-98.1596
+"1/4/12","Brownsville","Texas","urban","MS",0,0,25.998,-97.4565
+"1/10/12","Houston","Texas","urban","HS",0,1,29.7863,-95.3889
+"2/10/12","Walpole","New Hampshire","suburban","ES",0,0,43.079780, -72.423219
+"2/22/12","Bremerton","Washington","urban","ES",0,0,47.5436,-122.7122
+"2/27/12","Chardon","Ohio","suburban","HS",3,3,41.5803,-81.2082
+"3/6/12","Jacksonville","Florida","urban","HS",2,0,30.3322,-81.6749
+"3/24/12","Starkville","Mississippi","suburban","C",1,2,33.4608,-88.8297
+"4/2/12","Oakland","California","urban","C",7,3,37.7903,-122.2165
+"5/26/12","Chapel Hill","North Carolina","urban","ES",1,2,35.927,-79.0391
+"8/16/12","Memphis","Tennessee","urban","HS",0,2,35.1046,-89.9773
+"8/27/12","Perry Hall","Maryland","suburban","HS",0,1,39.4067,-76.4781
+"9/7/12","Normal","Illinois","suburban","HS",0,0,40.5218,-88.9881
+"9/12/12","Baltimore","Maryland","urban","C",0,0,39.3051,-76.6144
+"10/6/12","Mobile","Alabama","urban","C",1,0,30.6783,-88.1162
+"10/19/12","Chicago","Illinois","urban","HS",1,0,41.8373,-87.6862
+"10/31/12","Los Angeles","California","urban","C",0,4,34.1139,-118.4068
+"11/30/12","Baltimore","Maryland","urban","C",0,0,39.3051,-76.6144
+"12/14/12","Newtown","Connecticut","suburban","ES",28,2,41.411823, -73.305265
+"1/7/13","Fort Myers","Florida","suburban","HS",1,0,26.6195,-81.8303
+"1/10/13","Taft","California","suburban","HS",0,2,35.1267,-119.4242
+"1/12/13","Detroit","Michigan","urban","HS",0,1,42.3834,-83.1024
+"1/15/13","Hazard","Kentucky","urban","C",3,6,37.2583,-83.1977
+"1/15/13","St. Louis","Missouri","urban","C",0,2,38.6358,-90.2451
+"1/15/13","Hazard","Kentucky","suburban","C",3,0,37.2583,-83.1977
+"1/16/13","Chicago","Illinois","urban","C",1,0,41.8373,-87.6862
+"1/22/13","Houston","Texas","urban","C",0,3,29.7863,-95.3889
+"1/31/13","Phoenix","Arizona","urban","HS",0,0,33.5722,-112.0891
+"1/31/13","Atlanta","Georgia","urban","MS",0,0,33.7627,-84.4224
+"1/31/13","Phoenix","Arizona","urban","HS",0,0,33.5722,-112.0891
+"1/31/13","Atlanta","Georgia","urban","MS",0,2,33.7627,-84.4224
+"3/18/13","Orlando","Florida","urban","C",1,0,28.4772,-81.3369
+"4/12/13","Christiansburg","Virginia","suburban","C",0,0,37.1411,-80.4028
+"4/12/13","Dublin","Virginia","suburban","C",0,2,37.0987,-80.6831
+"4/16/13","Grambling","Louisiana","suburban","C",0,3,32.5276,-92.7124
+"4/18/13","Cambridge","Massachusetts","urban","C",2,1,42.3759,-71.1185
+"5/14/13","Birmingham","Alabama","urban","MS",0,0,33.5277,-86.7987
+"6/7/13","Santa Monica","California","suburban","C",6,4,34.0232,-118.4813
+"6/20/13","West Palm Beach","Florida","urban","HS",2,4,26.7468,-80.1316
+"8/20/13","Decatur","Georgia","suburban","HS",0,0,33.7711,-84.2968
+"8/23/13","Sardis","Mississippi","suburban","HS",1,2,34.4355,-89.9114
+"8/30/13","Winston-Salem","North Carolina","suburban","HS",0,1,36.1029,-80.2611
+"10/4/13","Pine Hills","Florida","suburban","HS",0,2,28.5818,-81.4693
+"10/21/13","Sparks","Nevada","urban","MS",2,2,39.5729,-119.7157
+"11/2/13","Greensboro","North Carolina","urban","C",0,1,36.0956,-79.8269
+"11/3/13","Lithonia","Georgia","suburban","HS",0,2,33.7128,-84.106
+"11/13/13","Pittsburgh","Pennsylvania","urban","HS",0,3,40.4396,-79.9762
+"12/4/13","Winter Garden","Florida","suburban","HS",0,1,28.5421,-81.5966
+"12/13/13","Centennial","Colorado","urban","HS",2,0,39.5926,-104.8674
+"12/19/13","Fresno","California","urban","HS",0,1,36.7831,-119.7941
+"1/9/14","Jackson","Tennessee","urban","HS",0,1,35.6535,-88.8353
+"1/13/14","New Haven","Connecticut","urban","HS",0,1,41.3112,-72.9246
+"1/14/14","Roswell","New Mexico","suburban","MS",0,3,33.373,-104.5294
+"1/17/14","Philadelphia","Pennsylvania","urban","HS",0,2,40.0077,-75.1339
+"1/20/14","Chester","Pennsylvania","suburban","C",0,1,39.8456,-75.3718
+"1/21/14","West Lafayette","Indiana","suburban","C",1,0,40.4432,-86.9239
+"1/24/14","Orangeburg","South Carolina","suburban","C",1,0,33.4928,-80.867
+"1/25/14","Los Angeles","California","urban","C",1,0,34.1139,-118.4068
+"1/27/14","Carbondale","Illinois","suburban","HS",0,1,37.7221,-89.2238
+"1/28/14","Nashville","Tennessee","urban","C",0,1,36.1715,-86.7843
+"1/30/14","Palm Bay","Florida","urban","C",0,1,27.955,-80.6627
+"1/31/14","Des Moines","Iowa","urban","HS",0,1,41.5725,-93.6105
+"2/10/14","Salisbury","North Carolina","suburban","HS",0,1,35.6656,-80.4909
+"2/10/14","Lyndhurst","Ohio","suburban","HS",0,0,41.5172,-81.4922
+"2/12/14","Los Angeles","California","urban","C",0,1,34.1139,-118.4068
+"2/22/14","Augusta","Georgia","urban","C",0,1,33.3645,-82.0708
+"3/12/14","Miami","Florida","urban","ES",1,0,25.7839,-80.2102
+"3/25/14","College Park","Georgia","suburban","HS",0,0,33.6363,-84.464
+"4/9/14","Greenville","North Carolina","suburban","HS",0,0,35.5956,-77.3768
+"4/11/14","Detroit","Michigan","urban","HS",1,0,42.3834,-83.1024
+"5/4/14","Augusta","Georgia","urban","C",0,1,33.3645,-82.0708
+"5/5/14","Augusta","Georgia","urban","C",0,1,33.3645,-82.0708
+"5/8/14","Lawrenceville","Georgia","suburban","C",0,1,33.9523,-83.9931
+"5/14/14","Richmond","California","urban","HS",0,1,37.9477,-122.339
+"6/5/14","Seattle","Washington","urban","C",1,2,47.6211,-122.3244
+"6/10/14","Troutdale","Oregon","suburban","HS",2,1,45.5372,-122.3955
+"9/9/14","Miami","Florida","urban","HS",0,1,25.7839,-80.2102
+"9/27/14","Terre Haute","Indiana","suburban","C",0,1,39.4654,-87.3763
+"9/30/14","Albemarle","North Carolina","suburban","HS",0,1,35.3594,-80.1915
+"9/30/14","Louisville","Kentucky","urban","HS",0,1,38.1663,-85.6485
+"10/3/14","Fairburn","Georgia","suburban","HS",1,0,33.5496,-84.5914
+"10/24/14","Marysville","Washington","suburban","HS",5,1,48.0809,-122.1561
+"11/20/14","Tallahassee","Florida","urban","C",1,3,30.4551,-84.2526
+"11/20/14","Miami","Florida","urban","HS",1,1,25.7839,-80.2102
+"12/5/14","Claremore","Oklahoma","suburban","C",1,0,36.3143,-95.6099
+"12/12/14","Portland","Oregon","urban","HS",0,4,45.5372,-122.65
+"1/15/15","Milwaukee","Wisconsin","urban","HS",0,3,43.0642,-87.9673
+"1/16/15","Ocala","Florida","suburban","HS",0,2,29.178,-82.1511
+"2/4/15","Frederick","Maryland","suburban","HS",0,2,39.4336,-77.4141
+"2/14/15","Merced","California","suburban","MS",1,0,37.3057,-120.4778
+"2/23/15","Daytona Beach","Florida","suburban","C",0,3,29.1994,-81.0982
+"3/30/15","University City","Missouri","suburban","ES",0,1,38.6657,-90.3315
+"4/13/15","Goldsboro","North Carolina","suburban","C",1,0,35.3778,-77.972
+"4/16/15","Paradis","Louisiana","suburban","MS",0,1,29.868,-90.4398
+"4/27/15","Lacey","Washington","suburban","HS",0,0,47.046,-122.7934
+"5/12/15","Jacksonville","Florida","urban","HS",0,2,30.3322,-81.6749
+"5/24/15","Flint","Michigan","urban","HS",0,7,43.0235,-83.6922
+"8/27/15","Savannah","Georgia","urban","C",1,0,32.0281,-81.1784
+"9/3/15","Sacramento","California","urban","C",1,2,38.5667,-121.4683
+"9/14/15","Cleveland","Mississippi","urban","C",2,0,33.744,-90.7285
+"9/30/15","Harrisburg","South Dakota","suburban","HS",0,1,43.4321,-96.7037
+"10/1/15","Roseburg","Oregon","suburban","C",10,9,43.2232,-123.3518
+"10/9/15","Flagstaff","Arizona","suburban","C",1,3,35.1872,-111.6195
+"10/9/15","Houston","Texas","urban","C",1,1,29.7863,-95.3889
+"10/22/15","Nashville","Tennessee","urban","C",1,3,36.1715,-86.7843
+"11/1/15","Winston-Salem","North Carolina","suburban","C",1,1,36.1029,-80.2611
+"11/20/15","North Las Vegas","Nevada","urban","HS",1,0,36.288,-115.0901
+"1/22/16","Indianapolis","Indiana","urban","HS",0,1,39.7771,-86.1458
+"1/29/16","Philadelphia","Pennsylvania","urban","HS",0,0,40.0077,-75.1339
+"2/9/16","Muskegon Heights","Michigan","suburban","HS",0,4,43.2024,-86.242
+"2/12/16","Glendale","Arizona","urban","HS",2,0,33.5791,-112.2311
+"2/29/16","Middletown","Ohio","suburban","HS",0,4,39.5032,-84.366
+"4/23/16","Antigo","Wisconsin","suburban","HS",1,2,45.1413,-89.1556
+"6/1/16","Los Angeles","California","urban","C",2,0,34.1139,-118.4068
+"6/8/16","Dorchester","Massachusetts","suburban","HS",1,3,42.293906, -71.059442
+"9/6/16","Cedar Rapids","IA","urban","HS",1,0,41.964267, -91.693244
+"9/9/16","Alpine","Texas","suburban","HS",1,2,30.364,-103.665
+"9/28/16","Townville","South Carolina","suburban","ES",2,2,34.563571, -82.902512
+"10/11/16","Mobile","Alabama","urban","HS",0,1,30.6783,-88.1162
+"10/13/16","Columbus","Ohio","urban","HS",0,2,39.9862,-82.985
+"10/18/16","San Francisco","California","urban","HS",0,4,37.7562,-122.443
+"10/25/16","Sandy","Utah","suburban","MS",0,1,40.571,-111.8505
+"12/1/16","Bountiful","Utah","suburban","MS",0,0,40.8722,-111.8647
+"1/20/17","West Liberty","Ohio","suburban","HS",0,1,40.2569,-83.7584
+"1/20/17","Seattle","Washington","urban","C",0,1,47.6211,-122.3244
+"3/21/17","King City","California","suburban","HS",0,1,36.2166,-121.133
+"4/10/17","San Bernardino","California","urban","ES",3,1,34.1417,-117.2946
+"5/4/17","Irving","Texas","urban","C",2,0,32.8584,-96.9702
+"9/13/17","Rockford","Washington","urban","HS",1,3,47.4515,-117.1307
+"9/20/17","Mattoon","Illinois","suburban","HS",0,1,39.4775,-88.3624
+"11/14/17","Rancho Tehama Reserve","California","suburban","ES",6,18,40.001,-122.4418
+"12/7/17","Aztec","New Mexico","suburban","HS",3,0,36.819,-107.9826
+"1/9/18","Forest City","Iowa","suburban","HS",0,0,43.257,-93.6365
+"1/20/18","Winston-Salem","North Carolina","suburban","C",1,0,36.1029,-80.2611
+"1/22/18","Italy","Texas","suburban","HS",0,1,32.1858,-96.8866
+"1/22/18","New Orleans","Louisiana","urban","HS",0,1,30.0687,-89.9288
+"1/23/18","Marshall County","Kentucky","suburban","HS",2,18,36.852470, -88.356298
+"2/1/18","Los Angeles","California","urban","MS",0,5,34.1139,-118.4068
+"2/14/18","Parkland","Florida","suburban","HS",17,14,26.3218,-80.2533
+"3/2/18","Mount Pleasant","Michigan","suburban","C",2,0,43.5966,-84.7759
+"3/7/18","Birmingham","Alabama","urban","HS",1,2,33.5277,-86.7987
+"3/14/18","Birmingham","Alabama","urban","C",2,1,33.5277,-86.7987
+"3/20/18","Great Mills","Maryland","suburban","HS",2,1,38.247720, -76.488788
+"4/20/18","Ocala","Florida","suburban","HS",0,1,29.178,-82.1511
+"5/11/18","Palmdale","California","urban","HS",0,1,34.5944,-118.1057
+"5/16/18","Dixon","Texas","suburban","HS",0,1,33.069137, -96.028046
+"5/18/18","Santa Fe","Texas","suburban","HS",10,10,29.3892,-95.1005
+"5/18/18","Jonesboro","Georgia","suburban","HS",1,3,33.5212,-84.3541
+"5/25/18","Nobelsville","Indiana","suburban","MS",0,2,40.039707, -86.009925
+"8/17/18","Wellington","Florida","suburban","HS",0,2,26.6461,-80.2699
+"8/30/18","San Francisco","California","urban","HS",0,1,37.7562,-122.443
+"9/5/18","Providence","Rhode Island","urban","HS",1,1,41.823,-71.4187
+"9/10/18","Memphis","Tennessee","urban","HS",0,1,35.1046,-89.9773
+"9/11/18","Las Vegas","Nevada","urban","HS",1,0,36.2333,-115.2654
+"10/29/18","Matthews","North Carolina","suburban","HS",1,1,35.1195,-80.7101
+"12/13/18","Richmond","Indiana","urban","MS",1,0,39.8318,-84.8905
+"1/25/19","Mobile","Alabama","urban","HS",0,2,30.6783,-88.1162
+"2/8/19","Baltimore","Maryland","urban","HS",0,1,39.3051,-76.6144
+"2/12/19","Kansas City","Missouri","urban","HS",1,0,39.1239,-94.5541
+"2/14/19","Rio Rancho","New Mexico","suburban","HS",0,0,35.2872,-106.6981
+"3/22/19","Blountville","Alabama","suburban","ES",0,1,34.083783, -86.592933
+"4/1/19","Prescott","Arizona","suburban","HS",0,1,34.585,-112.4475
+"4/25/19","Dekalb","Georgia","suburban","ES",0,10,33.725599, -84.306560
+"4/30/19","Charlotte","North Carolina","urban","C",2,4,35.208,-80.8304
+"5/4/19","Eugene","Oregon","urban","C",1,0,44.0563,-123.1173
+"5/6/19","Riverview","Florida","suburban","ES",0,0,27.8227,-82.3023
+"5/7/19","Highlands Ranch","Colorado","suburban","HS",1,7,39.5419,-104.9708
+"5/7/19","Savannah","Georgia","urban","C",0,1,32.0281,-81.1784
+"8/8/19","Montgomery","Alabama","urban","ES",0,0,32.3473,-86.2666
+"8/30/19","Mobile","Alabama","urban","HS",0,10,30.6783,-88.1162
+"10/22/19","Santa Rosa","California","urban","HS",0,1,38.4458,-122.7067
+"11/14/19","Santa Clarita","California","urban","HS",2,4,34.4175,-118.4964
+"11/15/19","Pleasantville","New Jersey","suburban","HS",1,2,39.39,-74.5169
+"11/23/19","Union City","California","suburban","ES",2,0,37.603,-122.0187
+"12/2/19","Waukesha","Wisconsin","suburban","HS",0,1,43.0087,-88.2464
+"12/3/19","Oshkosh","Wisconsin","suburban","HS",0,2,44.0228,-88.5619
+"1/8/20","Belle Glade","Florida","suburban","HS",0,1,26.692,-80.6672
+"1/11/20","Dallas","Texas","urban","HS",1,1,32.7936,-96.7662
+"1/14/20","Bellaire","Texas","suburban","HS",1,0,29.704,-95.4622
+"1/14/20","Fort Worth","Texas","urban","HS",0,2,32.7811,-97.3473
+"1/23/20","Oxnard","California","urban","ES",0,1,34.1963,-119.1815
+"2/3/20","Commerce","Texas","suburban","C",2,1,33.2421,-95.8991
+"9/16/20","Sonora","California","suburban","HS",1,0,37.9819,-120.3828
